@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 python-multipart
-tensorflow
+tensorflow-cpu
 opencv-python-headless
 numpy
 ultralytics
